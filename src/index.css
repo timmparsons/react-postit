@@ -1,0 +1,32 @@
+.post-it {
+    height: 150px;
+    width: 200px;
+    background-color: yellow;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+button {
+    position: relative;
+    bottom: -80px;
+    left: 75px;
+}
+
+.submit-btn {
+    position: relative;
+    bottom: -80px;
+    left: 122px;
+}
+
+textarea {
+    position: relative;
+    top: 5px;
+    left: 18px;
+}
+
+.board {
+    background-color: peru;
+    height: 1240px;
+    width: 100%;
+}
