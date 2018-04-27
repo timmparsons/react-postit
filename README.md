@@ -1,1 +1,1 @@
-React add mimicking Post It notes on a board. Under constrction.
+React add mimicking Post It notes on a board. Under construction.
